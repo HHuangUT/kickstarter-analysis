@@ -58,8 +58,7 @@ Conversely, if a project gets off to a rough start, by listening to the funders'
 
 There are two main peaks of successful kickstarter projects:
 
--$9999 and Below
--$35000 to $44999
+__$9999 and Below__ & __$35000 to $44999__
 
 
 **Summary of Limitations and Reference**

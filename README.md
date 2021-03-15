@@ -17,6 +17,7 @@ By optimizing the best windows for success on both these metrics, we can help Lo
 
 **Month of Release**
 Success Rates of Kickstarter Plays vs Month
+
 <img width="397" alt="Theater_Outcomes_vs_Launch" src="https://user-images.githubusercontent.com/80546200/111099554-c6bbc780-8513-11eb-8079-167195bebfa7.png">
 
 As shown above, the highest rate of sucesss is found in the month of May.
